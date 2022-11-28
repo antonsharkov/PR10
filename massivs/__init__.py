@@ -1,0 +1,1 @@
+from massivs.func import Zamena
